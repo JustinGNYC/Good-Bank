@@ -1,8 +1,8 @@
 # Good Bank
  <img src= "public/bank.png" width='300'/>
 
-# Description/Motivation
-# This is a three-tiered banking application with authentication through Firebase. The original Bad Bank had no authentication and was insecure.
+## Description/Motivation
+This is a three-tiered banking application with authentication through Firebase. The original Bad Bank had no authentication and was insecure.
 
 ## How to Run
 1.  Clone the repository
